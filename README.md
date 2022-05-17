@@ -1,2 +1,2 @@
 # TvConexion-Resolucion
-Para practicar y subior avances del proyecto
+Para practicar y subir avances del proyecto
