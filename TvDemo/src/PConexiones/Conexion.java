@@ -19,6 +19,27 @@ public class Conexion {
   // Constructors
   //
   //Herrera improvement public Wifi () { };
+  /**
+   * 
+   * @param SSID
+   * @param usuario 
+   */
+  public Conexion(String SSID, String usuario) {
+    this.SSID = SSID;
+    this.usuario = usuario;
+  }
+ /**
+ * 
+ * @param SSID
+ * @param clave
+ * @param usuario 
+ */
+ public Conexion(String SSID, String clave, String usuario) {
+    this.SSID = SSID;
+    this.clave = clave;
+    this.usuario = usuario;
+ }
+
   
   //
   // Methods
