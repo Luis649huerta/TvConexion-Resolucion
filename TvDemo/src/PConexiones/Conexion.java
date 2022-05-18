@@ -28,6 +28,7 @@ public class Conexion {
     this.SSID = SSID;
     this.usuario = usuario;
   }
+  public Conexion(){}
  /**
  * 
  * @param SSID

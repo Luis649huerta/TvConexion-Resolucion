@@ -12,13 +12,13 @@ public class ConexionLAN extends Conexion{
   //
 
   /*
-  
+
   Ver super clase Conexion 
-    
+
   private String SSID;
   private String clave;
   private String usuario;*/
-  
+
   //
   // Constructors
   //
@@ -32,6 +32,7 @@ public class ConexionLAN extends Conexion{
   //
   // Accessor methods
   //
-
+    
+  
 
 }
