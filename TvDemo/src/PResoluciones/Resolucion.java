@@ -37,8 +37,8 @@ public class Resolucion {
      *
      * @param newVar el nuevo valor de largo
      */
-    public void setLargo(double newVar) {
-        largo = newVar;
+    public void setLargo(double largo) {
+        this.largo = largo;
     }
 
     /**
